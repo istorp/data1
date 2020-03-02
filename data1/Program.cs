@@ -11,6 +11,7 @@ namespace data1
 
             string hej = Console.ReadLine();
             Console.WriteLine("ditt namn är:");
+            Console.WriteLine("hmmm kör vi !");
             Console.WriteLine(hej);
         }
     }
