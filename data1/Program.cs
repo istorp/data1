@@ -10,6 +10,7 @@ namespace data1
             Console.WriteLine("skriv ditt namn");
 
             string hej = Console.ReadLine();
+            Console.WriteLine("ditt namn är:");
             Console.WriteLine(hej);
         }
     }
